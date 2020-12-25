@@ -1,0 +1,1 @@
+This is only the code, if you want to have a succefull build you will need to install openCV, the corresponding tracking xml file.
